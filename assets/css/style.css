@@ -12,6 +12,9 @@ h3{
 	color: #4aaaa5 !important;
 
 }
+h1{
+	color: #4aaaa5 !important;
+}
 .footer {
     position: fixed;
     bottom: 0;
@@ -50,8 +53,9 @@ h3{
     text-align: center;
     padding-top: 10px;
 }
-.navbar navbar-default {
-	background-color: #fff !important;
+.navbar {
+	background-color: #fff;
+	color: 
 }
 .panel {
 	margin-bottom: 80px;
@@ -59,4 +63,11 @@ h3{
 .row-style{
 	margin-left: 10px;
 	margin-right: 10px;
+}
+.background {
+	background-color: #fff;
+}
+.btn-color {
+	background-color: #4aaaa5;
+	color: #fff;
 }
