@@ -6,7 +6,7 @@
 	background-color: #4aaaa5 !important;
 }
 body {
-	background-repeat: url("../images/concrete.png");
+	background-image: url("../images/concrete.png");
 }
 h3{
 	color: #4aaaa5 !important;
